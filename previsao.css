@@ -1,0 +1,39 @@
+body {
+	background: black;
+	color: white;
+}
+
+h1 {
+	text-align:  center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+p {
+	text-align: justify;
+}
+
+#data {
+	color: red;
+	font-size: 20px;
+}
+
+#estado {
+	text-align: center;	
+}
+
+#money {
+	color: green;
+}
+
+#produto {
+	padding-top: 30px;
+}
+ 
+ 
+#produto {
+	padding-top: 30px;
+}

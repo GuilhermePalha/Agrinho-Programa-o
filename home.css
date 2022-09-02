@@ -1,0 +1,46 @@
+body {
+	background: black;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#logo {
+	width: 1340px ;
+	height: 460px;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+#botoes {
+	padding-left: 100px;
+	font-size: 20px;
+	color: green;
+	background: rgb(255, 255, 255);
+}
+
+#textoinicial {
+	text-align: center;
+	font-size: 27px;
+	text-align: justify-all;
+}
+
+#faq {
+	color: blue;
+}
+
+#biografia {
+	padding-bottom: 20px;
+	padding-top: 50px;
+}
+
+#acessorapido {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
